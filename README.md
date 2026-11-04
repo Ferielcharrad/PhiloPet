@@ -314,6 +314,7 @@ Developed and integrated:
 ## 👩‍💻 Author
 
 **Nour Guidara**
+**Feriel Charrad**
 
 Software Engineering Student  
 
